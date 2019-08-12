@@ -13,7 +13,9 @@ function App() {
 
 	const addItem = item => {
 		setCart([...cart, item]);
-	};
+	const IBIKI = 666;
+	}
+	;
 
 	return (
 		<div className="App">
